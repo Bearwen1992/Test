@@ -1,0 +1,9 @@
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\bin\Debug\JsonPaser.exe.config
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\bin\Debug\JsonPaser.exe
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\bin\Debug\JsonPaser.pdb
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\obj\Debug\JsonPaser.csprojResolveAssemblyReference.cache
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\obj\Debug\JsonPaser.exe
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\obj\Debug\JsonPaser.pdb
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\bin\Debug\Newtonsoft.Json.dll
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\bin\Debug\Newtonsoft.Json.pdb
+G:\研究工作\jsonPaser\JsonPaser\JsonPaser\bin\Debug\Newtonsoft.Json.xml
